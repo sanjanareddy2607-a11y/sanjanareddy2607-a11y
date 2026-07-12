@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Sanjana+%E2%9C%A8;I+build+agents+that+think+and+backends+that+heal;LLM+Orchestration+%7C+Agentic+AI+%7C+Backend+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&height=50&lines=Hey%2C+I'm+Sanjana+%E2%9C%A8;I+build+agents+that+think+and+backends+that+heal;LLM+Orchestration+%7C+Agentic+AI+%7C+Backend+Systems" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=sanjanareddy2607-a11y&color=7AA2F7&style=for-the-badge&label=PROFILE+VIEWS" />
 &nbsp;
