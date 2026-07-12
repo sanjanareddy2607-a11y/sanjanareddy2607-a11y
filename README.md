@@ -81,7 +81,7 @@ I teach machines to think, agents to cooperate, and backends to heal themselves 
 <img src="https://github-readme-stats.vercel.app/api?username=sanjanareddy2607-a11y&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanareddy2607-a11y&layout=donut&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanareddy2607-a11y&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=sanjanareddy2607-a11y&theme=tokyonight&hide_border=true" height="165"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjanareddy2607-a11y&theme=tokyo-night&hide_border=true" width="90%"/>
 
