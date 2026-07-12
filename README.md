@@ -53,11 +53,11 @@ I teach machines to think, agents to cooperate, and backends to heal themselves 
 
 <div align="center">
 
-<a href="https://github.com/sanjanareddy2607-a11y/echointel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjanareddy2607-a11y&repo=echointel&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/sanjanareddy2607-a11y/NexusProbe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjanareddy2607-a11y&repo=NexusProbe&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/sanjanareddy2607-a11y/echointel"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sanjanareddy2607-a11y&repo=echointel&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/sanjanareddy2607-a11y/NexusProbe"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sanjanareddy2607-a11y&repo=NexusProbe&theme=tokyonight&hide_border=true" /></a>
 
-<a href="https://github.com/sanjanareddy2607-a11y/flowforge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjanareddy2607-a11y&repo=flowforge&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/sanjanareddy2607-a11y/perovskite_ML_model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjanareddy2607-a11y&repo=perovskite_ML_model&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/sanjanareddy2607-a11y/flowforge"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sanjanareddy2607-a11y&repo=flowforge&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/sanjanareddy2607-a11y/perovskite_ML_model"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sanjanareddy2607-a11y&repo=perovskite_ML_model&theme=tokyonight&hide_border=true" /></a>
 
 </div>
 
@@ -78,8 +78,8 @@ I teach machines to think, agents to cooperate, and backends to heal themselves 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanjanareddy2607-a11y&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanareddy2607-a11y&layout=donut&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=sanjanareddy2607-a11y&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sanjanareddy2607-a11y&layout=donut&theme=tokyonight&hide_border=true" height="165"/>
 
 <img src="https://streak-stats.demolab.com/?user=sanjanareddy2607-a11y&theme=tokyonight&hide_border=true" height="165"/>
 
